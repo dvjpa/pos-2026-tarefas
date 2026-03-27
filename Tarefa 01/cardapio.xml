@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
 <cardapio>
 
-  <prato id="P01">
+  <prato ID="P01">
         <nome>Feijoada</nome>
         <descricao>Feijoada é um prato típico brasileiro feito com feijão preto, carne de porco e outros ingredientes.</descricao>
          <ingredientes>
@@ -16,7 +17,7 @@
         <tempopreparo>60 Minutos</tempopreparo>
   </prato>
 
-  <prato id="P02">
+  <prato ID="P02">
         <nome>Moqueca</nome>
         <descricao>Moqueca é um prato típico brasileiro feito com peixe, camarão, leite de coco e outros ingredientes.</descricao>
         <ingredientes>
@@ -31,7 +32,7 @@
         <tempopreparo>45 Minutos</tempopreparo>
   </prato>
 
-  <prato id="P03">
+  <prato ID="P03">
         <nome>Churrasco</nome>
         <descricao>Churrasco é um prato típico brasileiro feito com carne assada na brasa, geralmente acompanhada de farofa, vinagrete e pão de alho.</descricao>
          <ingredientes>
@@ -45,7 +46,7 @@
         <tempopreparo>50 Minutos</tempopreparo>
   </prato>
 
-  <prato id="P04">
+  <prato ID="P04">
         <nome>Brigadeiro</nome>
         <descricao>Brigadeiro é um doce típico brasileiro feito com leite condensado, chocolate em pó e manteiga, enrolado em pequenas bolinhas e coberto com granulado de chocolate.</descricao>
         <ingredientes>
@@ -59,7 +60,7 @@
         <tempopreparo>20 Minutos</tempopreparo>
   </prato>
 
-  <prato id="P05">
+  <prato ID="P05">
         <nome>Pastel</nome>
         <descricao>Pastel é um prato típico brasileiro feito com uma massa fina e crocante, recheada com diversos ingredientes, como carne, queijo, frango, entre outros.</descricao>
         <ingredientes>
