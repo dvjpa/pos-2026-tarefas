@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cardapio>
 
-  <prato id="1">
+  <prato id="P01">
         <nome>Feijoada</nome>
         <descricao>Feijoada é um prato típico brasileiro feito com feijão preto, carne de porco e outros ingredientes.</descricao>
          <ingredientes>
@@ -11,12 +11,12 @@
             <ingrediente>Costela</ingrediente>
             <ingrediente>Farinha de mandioca</ingrediente>
          </ingredientes>
-        <preco>25.00</preco>
+        <preco moeda="BRL">25.00</preco>
         <calorias>800</calorias>
         <tempopreparo>60 Minutos</tempopreparo>
   </prato>
 
-  <prato id="2">
+  <prato id="P02">
         <nome>Moqueca</nome>
         <descricao>Moqueca é um prato típico brasileiro feito com peixe, camarão, leite de coco e outros ingredientes.</descricao>
         <ingredientes>
@@ -26,12 +26,12 @@
            <ingrediente>Dendê</ingrediente>
            <ingrediente>Coentro</ingrediente>
         </ingredientes>
-        <preco>30.00</preco>
+        <preco moeda="BRL">30.00</preco>
         <calorias>600</calorias>
         <tempopreparo>45 Minutos</tempopreparo>
   </prato>
 
-  <prato id="3">
+  <prato id="P03">
         <nome>Churrasco</nome>
         <descricao>Churrasco é um prato típico brasileiro feito com carne assada na brasa, geralmente acompanhada de farofa, vinagrete e pão de alho.</descricao>
          <ingredientes>
@@ -40,12 +40,12 @@
            <ingrediente>Vinagrete</ingrediente>
            <ingrediente>Pão de alho</ingrediente>
         </ingredientes>
-        <preco>35.00</preco>
+        <preco moeda="BRL">35.00</preco>
         <calorias>700</calorias>
         <tempopreparo>50 Minutos</tempopreparo>
   </prato>
 
-  <prato id="4">
+  <prato id="P04">
         <nome>Brigadeiro</nome>
         <descricao>Brigadeiro é um doce típico brasileiro feito com leite condensado, chocolate em pó e manteiga, enrolado em pequenas bolinhas e coberto com granulado de chocolate.</descricao>
         <ingredientes>
@@ -54,12 +54,12 @@
            <ingrediente>Manteiga</ingrediente>
            <ingrediente>Granulado de chocolate</ingrediente>
         </ingredientes>
-        <preco>5.00</preco>
+        <preco moeda="BRL">5.00</preco>
         <calorias>150</calorias>
         <tempopreparo>20 Minutos</tempopreparo>
   </prato>
 
-  <prato id="5">
+  <prato id="P05">
         <nome>Pastel</nome>
         <descricao>Pastel é um prato típico brasileiro feito com uma massa fina e crocante, recheada com diversos ingredientes, como carne, queijo, frango, entre outros.</descricao>
         <ingredientes>
@@ -68,7 +68,7 @@
            <ingrediente>Recheio de queijo</ingrediente>
            <ingrediente>Recheio de frango</ingrediente>
         </ingredientes>
-        <preco>2,50</preco>
+        <preco moeda="BRL">2,50</preco>
         <calorias>300</calorias>
         <tempopreparo>30 Minutos</tempopreparo>
   </prato>
