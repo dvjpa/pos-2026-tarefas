@@ -1,0 +1,81 @@
+{
+  "cardapio": [
+    {
+      "id": 1,
+      "nome": "Feijoada",
+      "descricao": "Feijoada é um prato típico brasileiro feito com feijão preto, carne de porco e outros ingredientes.",
+      "ingredientes": [
+        "Feijão preto",
+        "Carne de porco",
+        "Linguiça",
+        "Costela",
+        "Farinha de mandioca"
+      ],
+      "preco": 25.00,
+      "moeda": "BRL",
+      "calorias": 800,
+      "tempopreparo": "60 Minutos"
+    },
+    {
+      "id": 2,
+      "nome": "Moqueca",
+      "descricao": "Moqueca é um prato típico brasileiro feito com peixe, camarão, leite de coco e outros ingredientes.",
+      "ingredientes": [
+        "Peixe",
+        "Camarão",
+        "Leite de coco",
+        "Dendê",
+        "Coentro"
+      ],
+      "preco": 30.00,
+      "moeda": "BRL",
+      "calorias": 600,
+      "tempopreparo": "45 Minutos"
+    },
+    {
+      "id": 3,
+      "nome": "Churrasco",
+      "descricao": "Churrasco é um prato típico brasileiro feito com carne assada na brasa, geralmente acompanhada de farofa, vinagrete e pão de alho.",
+      "ingredientes": [
+        "Carne",
+        "Farofa",
+        "Vinagrete",
+        "Pão de alho"
+      ],
+      "preco": 35.00,
+      "moeda": "BRL",
+      "calorias": 700,
+      "tempopreparo": "50 Minutos"
+    },
+    {
+      "id": 4,
+      "nome": "Brigadeiro",
+      "descricao": "Brigadeiro é um doce típico brasileiro feito com leite condensado, chocolate em pó e manteiga, enrolado em pequenas bolinhas e coberto com granulado de chocolate.",
+      "ingredientes": [
+        "Leite condensado",
+        "Chocolate em pó",
+        "Manteiga",
+        "Granulado de chocolate"
+      ],
+      "preco": 5.00,
+      "moeda": "BRL",
+      "calorias": 150,
+      "tempopreparo": "20 Minutos"
+    },
+    {
+      "id": 5,
+      "nome": "Pastel",
+      "descricao": "Pastel é um prato típico brasileiro feito com uma massa fina e crocante, recheada com diversos ingredientes, como carne, queijo, frango, entre outros.",
+      "ingredientes": [
+        "Massa de pastel",
+        "Recheio de carne",
+        "Recheio de queijo",
+        "Recheio de frango"
+      ],
+      "preco": 2.50,
+      "moeda": "BRL",
+      "calorias": 300,
+      "tempopreparo": "30 Minutos"
+    }
+  ]
+}

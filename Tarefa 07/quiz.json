@@ -1,0 +1,32 @@
+{
+  "quiz": {
+    "versao": "1.0",
+    "disciplina": "Desenvolvimento Web",
+    "professor": {
+      "nome": "Diego Cirilo",
+      "matrícula": "1234567"
+    },
+    "turma": "POS-2026",
+    "data": "24/04/2026",
+    "questões": [
+      {
+        "enunciado": "O que significa a sigla XML?",
+        "pontuação": 2.0,
+        "alternativas": [
+          {
+            "texto": "X-ray Medium Language",
+            "correta": "nao"
+          },
+          {
+            "texto": "eXtensible Markup Language",
+            "correta": "sim"
+          },
+          {
+            "texto": "eXtra Modern Language",
+            "correta": "nao"
+          }
+        ]
+      }
+    ]
+  }
+}

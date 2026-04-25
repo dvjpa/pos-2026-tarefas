@@ -1,0 +1,111 @@
+{
+  "imobiliaria": [
+    {
+      "descricao": "Apartamento Garden com área externa",
+      "proprietario": {
+        "nome": "João Silva",
+        "contatos": [
+          { "tipo": "telefone", "valor": "(84) 9999-0001" },
+          { "tipo": "telefone", "valor": "(84) 9999-0002" },
+          { "tipo": "email", "valor": "joao.silva@email.com" }
+        ]
+      },
+      "endereco": {
+        "rua": "Av. Salgado Filho",
+        "bairro": "Lagoa Nova",
+        "cidade": "Natal",
+        "numero": 1500
+      },
+      "caracteristicas": {
+        "tamanho": 85.50,
+        "numQuartos": 3,
+        "numBanheiros": 2
+      },
+      "valor": "R$ 450.000,00"
+    },
+    {
+      "descricao": "Terreno amplo para construção comercial",
+      "proprietario": {
+        "nome": "Maria Oliveira",
+        "contatos": [
+          { "tipo": "email", "valor": "maria.imoveis@email.com" }
+        ]
+      },
+      "endereco": {
+        "rua": "BR-101 Sul",
+        "bairro": "Emaús",
+        "cidade": "Parnamirim",
+        "numero": null
+      },
+      "caracteristicas": {
+        "tamanho": 1200.00,
+        "numQuartos": 0,
+        "numBanheiros": 0
+      },
+      "valor": "R$ 800.000,00"
+    },
+    {
+      "descricao": "Casa Duplex em condomínio fechado",
+      "proprietario": {
+        "nome": "Carlos Santos",
+        "contatos": [
+          { "tipo": "telefone", "valor": "(84) 8888-7777" }
+        ]
+      },
+      "endereco": {
+        "rua": "Rua dos Ipês",
+        "bairro": "Nova Parnamirim",
+        "cidade": "Parnamirim",
+        "numero": 42
+      },
+      "caracteristicas": {
+        "tamanho": 150.75,
+        "numQuartos": 4,
+        "numBanheiros": 3
+      },
+      "valor": "R$ 620.000,00"
+    },
+    {
+      "descricao": "Studio mobiliado para aluguel",
+      "proprietario": {
+        "nome": "Ana Souza",
+        "contatos": [
+          { "tipo": "email", "valor": "ana.souza@email.com" }
+        ]
+      },
+      "endereco": {
+        "rua": "Rua Jaguarari",
+        "bairro": "Candelária",
+        "cidade": "Natal",
+        "numero": 200
+      },
+      "caracteristicas": {
+        "tamanho": 35.00,
+        "numQuartos": 1,
+        "numBanheiros": 1
+      },
+      "valor": "R$ 2.500,00/mês"
+    },
+    {
+      "descricao": "Casa beira-mar com piscina",
+      "proprietario": {
+        "nome": "Ricardo Pereira",
+        "contatos": [
+          { "tipo": "telefone", "valor": "(84) 9123-4567" }
+        ]
+      },
+      "endereco": {
+        "rua": "Av. Beira Mar",
+        "bairro": "Pirangi",
+        "cidade": "Parnamirim",
+        "numero": 500
+      },
+      "caracteristicas": {
+        "tamanho": 250.00,
+        "numQuartos": 5,
+        "numBanheiros": 4
+      },
+      "valor": "R$ 1.200.000,00"
+    }
+  ]
+}

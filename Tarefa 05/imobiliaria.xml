@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imobiliaria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="imobiliaria.xsd">
+
+  <imovel>
+    <descricao>Apartamento Garden com área externa</descricao>
+    <proprietario>
+      <nome>João Silva</nome>
+      <telefone>(84) 9999-0001</telefone>
+      <telefone>(84) 9999-0002</telefone>
+      <email>joao.silva@email.com</email>
+    </proprietario>
+    <endereco>
+      <rua>Av. Salgado Filho</rua>
+      <bairro>Lagoa Nova</bairro>
+      <cidade>Natal</cidade>
+      <numero>1500</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>85.50</tamanho>
+      <numQuartos>3</numQuartos>
+      <numBanheiros>2</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 450.000,00</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Terreno amplo para construção comercial</descricao>
+    <proprietario>
+      <nome>Maria Oliveira</nome>
+      <email>maria.imoveis@email.com</email>
+    </proprietario>
+    <endereco>
+      <rua>BR-101 Sul</rua>
+      <bairro>Emaús</bairro>
+      <cidade>Parnamirim</cidade>
+    </endereco>
+    <caracteristicas>
+      <tamanho>1200.00</tamanho>
+      <numQuartos>0</numQuartos>
+      <numBanheiros>0</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 800.000,00</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa Duplex em condomínio fechado</descricao>
+    <proprietario>
+      <nome>Carlos Santos</nome>
+      <telefone>(84) 8888-7777</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua dos Ipês</rua>
+      <bairro>Nova Parnamirim</bairro>
+      <cidade>Parnamirim</cidade>
+      <numero>42</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>150.75</tamanho>
+      <numQuartos>4</numQuartos>
+      <numBanheiros>3</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 620.000,00</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Studio mobiliado para aluguel</descricao>
+    <proprietario>
+      <nome>Ana Souza</nome>
+      <email>ana.souza@email.com</email>
+    </proprietario>
+    <endereco>
+      <rua>Rua Jaguarari</rua>
+      <bairro>Candelária</bairro>
+      <cidade>Natal</cidade>
+      <numero>200</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>35.00</tamanho>
+      <numQuartos>1</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 2.500,00/mês</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa beira-mar com piscina</descricao>
+    <proprietario>
+      <nome>Ricardo Pereira</nome>
+      <telefone>(84) 9123-4567</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Av. Beira Mar</rua>
+      <bairro>Pirangi</bairro>
+      <cidade>Parnamirim</cidade>
+      <numero>500</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>250.00</tamanho>
+      <numQuartos>5</numQuartos>
+      <numBanheiros>4</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 1.200.000,00</valor>
+  </imovel>
+
+</imobiliaria>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz versao="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="quiz.xsd">
+  
+  <disciplina>Desenvolvimento Web</disciplina>
+  <professor>
+    <nome>Diego Cirilo</nome>
+    <matrícula>1234567</matrícula>
+  </professor>
+  <turma>POS-2026</turma>
+  <data>24/04/2026</data>
+  
+  <questões>
+    <questão>
+      <enunciado>O que significa a sigla XML?</enunciado>
+      <pontuação>2.0</pontuação>
+      <alternativas>
+        <alternativa correta="nao">X-ray Medium Language</alternativa>
+        <alternativa correta="sim">eXtensible Markup Language</alternativa>
+        <alternativa correta="nao">eXtra Modern Language</alternativa>
+      </alternativas>
+    </questão>
+  </questões>
+  
+</quiz>
